@@ -1,0 +1,25 @@
+{
+  "name": "recursive-find",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timhudson/recursive-find.git"
+  },
+  "author": "tim hudson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timhudson/recursive-find/issues"
+  },
+  "homepage": "https://github.com/timhudson/recursive-find",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
