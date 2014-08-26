@@ -1,7 +1,7 @@
 {
   "name": "recursive-find",
   "version": "1.0.0",
-  "description": "",
+  "description": "Recursively find values of an object that match a test function",
   "main": "index.js",
   "directories": {
     "test": "test"
