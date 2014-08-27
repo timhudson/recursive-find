@@ -3,14 +3,11 @@ recursive-find
 
 Recursively find values of an object that match a test function
 
-install
--------
-
-With [npm](https://npmjs.org/) do:
-
 ```
 npm install recursive-find
 ```
+
+[![build status](http://img.shields.io/travis/timhudson/recursive-find.svg?style=flat)](http://travis-ci.org/timhudson/recursive-find)
 
 example
 -------
